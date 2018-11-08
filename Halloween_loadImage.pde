@@ -8,8 +8,6 @@ void setup() {
 
 void draw()
 {
-  save("ANDY.Halloween.png");
-}
 
 void mouseDragged()
 {
